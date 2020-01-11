@@ -1,4 +1,4 @@
-# edX_Harvard_Using-Python-for-Research
+## EdX - Harvard - Using Python for Research - Final Project
 
 This repository contains:
 
