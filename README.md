@@ -2,9 +2,7 @@
 
 This repository contains:
 
-Final Project report in 2 formats:
-- Final Project.ipynb
-- Final Project.pdf
+Final Project report as Final Project.ipynb
 
 Data
 - test_labels.csv
